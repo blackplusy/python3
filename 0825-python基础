@@ -20,6 +20,71 @@ tel:18028768679
 	e.自动化测试     13k          python selenium robot
 	f.自动化运维     10k
 
+3.python的安装
+	建议:官网下载，注意环境变量(win\linux)
+	环境变量:让系统找到命令
+	注意:、
+		1>操作系统类型
+			unix
+			linux
+			windows
+		2>操作系统位数
+			32位  i386 i686 i586
+			64位  x86_64  x64
+	安装时候注意:
+		Add Python To Path
+
+3.python的开发工具
+	a.pycharm
+	b.eclipse+pydev
+	c.sublime text
+	d.vim/vi
+
+4.python的运行环境
+	a.开发工具
+	b.python自带环境
+		win+r--cmd--python
+		注意:退出使用
+			exit()
+			ctl+z
+	c.python 文件名
+		win+r--cmd--python 文件
+	d.python的idle
+	补充：python开发的文件都是以.py结尾
+5.输入和输出
+
+	a.输出的应用场景
+	b.输入应用场景
+	c.python的输出
+	d.python的输入
+
+	a.输出的应用场景
+		1>taobao搜索出来的商品
+		2>访问页面不存在(404)
+		3>调试程序时候进行输出
+		4>网站用户名提示信息
+
+	b.输入应用场景
+		1>注册用户时候添加信息
+		2>taobao搜索框中输入信息
+		3>前后端交互
+		4>直播时候图像采集、声纹采集
+
+	c.输出
+		1>直接输出
+		2>变量输出
+		3>函数输出
+		4>格式化输出
+
+	d.输入
+		1>input
+		python2中作用是接受键盘输入的数字信息，python3中作用是接受键盘输入字符串信息
+		2>raw_input
+		python2中接受键盘传入的字符信息,python3中取消
+
+
+
+
 
 
 
